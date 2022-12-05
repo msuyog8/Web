@@ -1,0 +1,58 @@
+*{
+    margin: 0;
+}
+.container
+{
+    background-color: yellow;
+    margin: auto;
+    width: 1200px;
+}
+.Product
+{
+    background-color: bisque;
+    margin: auto;
+    width: 1200px;
+}
+/* .body
+{
+    margin: auto; 
+} */
+.col-12
+{
+    width: 100%;
+}
+.col-6
+{
+    width: 50%;
+}
+.col-9
+{
+    width: 75%;
+    /* display: flex; */
+   
+}
+.col-3
+{
+    margin: auto;
+    width: 25%;
+}
+.row
+{
+    display: flex;
+}
+.img
+{
+    text-align: center;
+}
+.btn
+{
+    background-color:  rgb(23, 194, 224);
+}
+/* .categories
+{
+    color: red;
+} */
+.categories
+{
+    background-color: aquamarine;
+}
